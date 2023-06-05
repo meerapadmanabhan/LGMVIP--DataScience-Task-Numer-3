@@ -47,8 +47,9 @@ Classification models can be used to predict the dependent variable. Here we are
 This brings us to a conclusion that RandomForest and LGM perform very well in test data. But RandomForest in some cases tend to overfit the data. So LigthGBM is better at predicting the music the user needs. It provides the users 78.5% accuracy on global data, basically it generalizes very well.
 
 ## CONCLUSION
-The purpose of this project was to compare different classification algorithms to predict music recommender systems can suggest songs to users based on their listening patterns.. Find and compare the accuracy of each model to find the best classifier. Finally train the model using the complete dataset.
 
-The final_model computed here can be used to predict music recommender systems can suggest songs to users based on their listening patterns.
+The purpose of this project was to compare different classification algorithms to predict music recommender systems can suggest songs to users based on their listening patterns.. Find and compare the accuracy of each model to find the best classifier. 
+Finally train the model using the complete dataset. The final_model computed here can be used to predict music recommender systems can suggest songs to users based on their listening patterns.
+
 --
 #### MEERA P V
